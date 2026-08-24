@@ -8,7 +8,7 @@ katex: false
 comments: true
 aside: true
 date: 2023-11-20 17:08:04
-cover: https://pan.weidows.tech/d/local/blog/owlk10.png
+cover: https://fs.weidows.tech/img/blog/owlk10.png
 top_img:
 ---
 
@@ -36,17 +36,17 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://pan.weidows.tech/d/local/img/divider.png)</a>
+<a>![分割线](https://fs.weidows.tech/img/img/divider.png)</a>
 
 ## Preview
 
-![owlrlm.png](https://pan.weidows.tech/d/local/blog/owlrlm.png)
+![owlrlm.png](https://fs.weidows.tech/img/blog/owlrlm.png)
 
-![owlk10.png](https://pan.weidows.tech/d/local/blog/owlk10.png)
+![owlk10.png](https://fs.weidows.tech/img/blog/owlk10.png)
 
-![owluuT.png](https://pan.weidows.tech/d/local/blog/owluuT.png)
+![owluuT.png](https://fs.weidows.tech/img/blog/owluuT.png)
 
-<a>![分割线](https://pan.weidows.tech/d/local/img/divider.png)</a>
+<a>![分割线](https://fs.weidows.tech/img/img/divider.png)</a>
 
 ## Feature
 
@@ -165,7 +165,7 @@ scoop install Windows-Theme-HighContract-Tokyo-Night
 27. **GradientInactiveTitle=192 192 192**
     **非激活窗口的渐变标题栏颜色**。当窗口未激活并且启用渐变效果时，标题栏的颜色变化。
 
-<a>![分割线](https://pan.weidows.tech/d/local/img/divider.png)</a>
+<a>![分割线](https://fs.weidows.tech/img/img/divider.png)</a>
 
 ## 借物表
 
